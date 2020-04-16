@@ -27,3 +27,7 @@ public class CharacterController : MonoBehaviour {
     }
 }
 ```
+
+Drag and drop the gameobject with the TouchInputDrag into the exposed editor field.
+
+![EventTriggerSetup](../images/touchinputdrag3.png)
