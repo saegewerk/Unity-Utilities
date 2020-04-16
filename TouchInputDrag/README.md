@@ -10,7 +10,7 @@ Assign Canvas to the public canvas in the editor, as seen in the picture.
 ![EmptyGameObjectSetup](../images/touchinputdrag1.png)
 
 Add a EventTrigger Component to the image.
-Add Events "OnDrag", "PointerUp" and "PointerDown".
+Add Events "Drag", "PointerUp" and "PointerDown".
 For the function select your gameobject TouchInputDrag and select the function in the TouchInputDrag component,
 they're named accordingly to the function.
 
