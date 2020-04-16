@@ -7,14 +7,14 @@ Add an image from UI objects, I named it DragZone(Canvas will be created).
 
 Assign Canvas to the public canvas in the editor, as seen in the picture.
 
-![EmptyGameObjectSetup](images/touchinputdrag1.jpg)
+![EmptyGameObjectSetup](../images/touchinputdrag1.jpg)
 
 Add a EventTrigger Component to the image.
 Add Events "OnDrag", "PointerUp" and "PointerDown".
 For the function select your gameobject TouchInputDrag and select the function in the TouchInputDrag component,
 they're named accordingly to the function.
 
-![EventTriggerSetup](images/touchinputdrag2.jpg)
+![EventTriggerSetup](../images/touchinputdrag2.jpg)
 
 Now you can create a public TouchInputDrag in your CharacterController or wherever you need it exposed.
 
